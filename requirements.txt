@@ -1,0 +1,20 @@
+git clone https://github.com/jantic/DeOldify.git
+opencv-contrib-python==4.5.3.56
+ aiogram
+ python-dotenv
+ SQLAlchemy
+asyncpg
+ipython
+ wandb
+ tensorboardX>=1.6
+ jupyterlab
+ Pillow==9.3.0
+ ipywidgets
+ yt-dlp
+ffmpeg
+ffmpeg-python
+torch==1.9.1+cu111
+torchvision==0.10.1+cu111
+-f https://download.pytorch.org/whl/torch_stable.html
+fastai==1.0.61
+ numpy==1.24.4
